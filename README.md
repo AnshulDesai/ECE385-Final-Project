@@ -1,0 +1,3 @@
+# Snake-Mom! An FPGA Pac-Man Simulator
+
+Designed for ECE 385 (Digital Systems Laboratory) final project.  A Pac-Man simulator for Altera DE2-115 FPGA board using Quartus Prime and written in System Verilog.  Based on the NIOS-II chipset.  I/O handles keyboard input and interfaces with VGA monitor as well as providing player debugging statistics using HEX LED display.  Modular level and state machine design allows for expansion of further levels.
